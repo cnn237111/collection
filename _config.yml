@@ -1,0 +1,6 @@
+# _config.yml
+title: 文摘精选
+description: 个人文章站点
+theme: minima # GitHub官方自带主题，开箱即用，不用额外下载
+baseurl: ""    # 如果仓库名字不是 cnn237111.github.io，这里填 /仓库名
+url: "https://cnn237111.github.io"
